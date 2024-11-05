@@ -19,3 +19,11 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.repsonive-history{
+  height: calc(100vh - 200px);
+}
+.dark {
+  background-color: #1a202c; 
+  color: #edf2f7; 
+}
